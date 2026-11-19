@@ -2,7 +2,7 @@
 
 # 🎮 WEB GAME
 
-### A Modern Web-Based DOOM Engine Powered by WebAssembly
+### A Modern Web-Based DOOM  Powered by WebAssembly
 
 <img src="docs/DOOM03.png" width="100%">
 
