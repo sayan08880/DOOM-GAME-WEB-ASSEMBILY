@@ -267,12 +267,26 @@ https://github.com/sayan08880
 
 ---
 
+## Bug Reports
+
+Found a problem while playing the game? Please report it.
+
+When reporting a bug, include:
+
+- Your browser name and version.
+- Your operating system.
+- Steps to reproduce the problem.
+- A screenshot or error message, if available.
+
+This helps improve the game for everyone.
+
+---
+
 <div align="center">
 
 ### ⭐ If you like this project, consider giving it a Star ⭐
 
 Made with ❤️ using JavaScript, Node.js and WebAssembly.
-<!-- YOLO achievement practice Yes -->
-Sayan
+
 
 </div>
